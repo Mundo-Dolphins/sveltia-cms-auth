@@ -21,7 +21,7 @@
     "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-jsdoc": "^65.3.6",
     "prettier": "^3.9.5",
-    "wrangler": "4.149.0"
+    "wrangler": "4.151.0"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
