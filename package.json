@@ -20,7 +20,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-jsdoc": "^65.4.1",
-    "prettier": "^3.9.5",
+    "prettier": "^3.10.1",
     "wrangler": "4.161.0"
   },
   "pnpm": {
